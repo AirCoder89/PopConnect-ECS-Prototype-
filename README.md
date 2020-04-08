@@ -8,7 +8,9 @@ Created with ECS Entitas Framework : [Entitas Download Link](https://github.com/
 
 **Try it on your phone**
 
-[APK Link](https://drive.google.com/open?id=10d-6MqNPn30ZTcenv7txLpDutvBrITu_)
+[Google Drive Link](https://drive.google.com/open?id=10d-6MqNPn30ZTcenv7txLpDutvBrITu_)
+Or
+[One Drive Link](https://1drv.ms/u/s!Ambq7X4wLes3pW-uuUNjXOybXrmL?e=sZeB7b)
 
 **Screenshots from the sourceCode:**
 
