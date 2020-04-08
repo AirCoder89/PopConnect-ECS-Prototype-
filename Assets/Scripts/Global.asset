@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc55ee849fb94fd4a121f4d221316a44, type: 3}
+  m_Name: Global
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1804319989797412440, guid: 5a8f188e5399207419ee299fbb9889a8, type: 3}
+  dimension:
+    x: 5
+    y: 5
+  xSpacing: 200
+  ySpacing: -200
+  xOffset: -400
+  yOffset: 400
+  changingTypeRate: 0.5
+  maxGeneratedBubble: 32
+  types:
+  - value: 2
+    textValue: 2
+    color: {r: 0.87843144, g: 0.3647059, b: 0.5058824, a: 1}
+  - value: 4
+    textValue: 4
+    color: {r: 0.8588236, g: 0.3019608, b: 0.19215688, a: 1}
+  - value: 8
+    textValue: 8
+    color: {r: 0.9686275, g: 0.6862745, b: 0.15686275, a: 1}
+  - value: 16
+    textValue: 16
+    color: {r: 0.8705883, g: 0.46274513, b: 0.18823531, a: 1}
+  - value: 32
+    textValue: 32
+    color: {r: 0.41176474, g: 0.7686275, b: 0.27450982, a: 1}
+  - value: 64
+    textValue: 64
+    color: {r: 0.2627451, g: 0.80392164, b: 0.6, a: 1}
+  - value: 128
+    textValue: 128
+    color: {r: 0, g: 0.6532632, b: 0.6792453, a: 1}
+  - value: 256
+    textValue: 256
+    color: {r: 0.4009434, g: 0.4860367, b: 1, a: 1}
+  - value: 512
+    textValue: 512
+    color: {r: 0.83137256, g: 0.49803922, b: 0.8901961, a: 1}
+  - value: 1024
+    textValue: 1K
+    color: {r: 0.5529412, g: 0.3803922, b: 0.77647066, a: 1}
+  - value: 2048
+    textValue: 2K
+    color: {r: 0.8018868, g: 0, b: 0.6216379, a: 1}
+  fallRange: 100
+  fallSpeed: 1500
+  spawnAnim:
+    type: 0
+    selectedEase: 28
+    duration: 0.25
+    startValue: 0
+    targetValue: 1
+  connectAnim:
+    type: 2
+    selectedEase: 0
+    duration: 0.3
+    startValue: 1
+    targetValue: 1.4
+  fadeOutAnim:
+    type: 1
+    selectedEase: 0
+    duration: 0
+    startValue: 0
+    targetValue: 0
