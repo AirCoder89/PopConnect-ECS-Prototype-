@@ -12,7 +12,7 @@ Created with ECS Entitas Framework : [Entitas Download Link](https://github.com/
 
 **Screenshots from the sourceCode:**
 
-**1- Global** (which a scriptable Object hold all settings) and we can adjust the animations, and setup the bubbles.
+**1- Global** (which a scriptable Object that hold all the settings) and we can adjust through it the animations, Grid Padding  and setup the bubbles.
 also we can track the entity grid.
 
 ![Global1](https://user-images.githubusercontent.com/62396712/78733242-2fceae80-7945-11ea-9152-b8270653f48c.PNG)
