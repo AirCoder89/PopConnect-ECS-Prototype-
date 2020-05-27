@@ -1,7 +1,7 @@
 # Pop Connect Entitas
 Created with ECS Entitas Framework : [Entitas Download Link](https://github.com/sschmid/Entitas-CSharp)
 
-**Video Demo On Youtube**
+**Video Demo On Youtube:**
 
 [Watch Demo](https://youtu.be/P3TOWU-Y5k4)
 
